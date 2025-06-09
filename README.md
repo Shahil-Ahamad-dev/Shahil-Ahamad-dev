@@ -29,3 +29,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahil-Ahamad-dev&" alt="Shahil-Ahamad-dev" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shahil-Ahamad-dev&show_icons=true&locale=en&layout=compact" alt="Shahil-Ahamad-dev" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shahil-Ahamad-dev" alt="Shahil-Ahamad-dev" /></a></p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
