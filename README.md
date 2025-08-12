@@ -73,24 +73,25 @@
 </div>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahilahamad&theme=tokyonight&border_radius=20" alt="GitHub Streak" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahilahamad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahilahamad&layout=compact&langs_count=8&theme=tokyonight&border_radius=20"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahilahamad&layout=compact&langs_count=6&theme=tokyonight&border_radius=20&hide=python,php,html"/>
 
 </div>
 
 <div align="center">
   
-<!-- Fixed GitHub streak URL format and added proper image tag -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahilahamaddev&theme=tokyonight&border_radius=20" alt="GitHub Streak" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
+
 
 </div>
+
+
+
 
 ---
 
