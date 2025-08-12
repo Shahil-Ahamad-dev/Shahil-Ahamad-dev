@@ -79,7 +79,7 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahilahamad&theme=tokyonight&border_radius=20" alt="GitHub Streak" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahilahamad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahilahamad&layout=compact&langs_count=6&theme=tokyonight&border_radius=20&hide=python,php,html"/>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shahil-Ahamad-Per&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Shahil-Ahamad-dev" /></p>
 
 </div>
 
