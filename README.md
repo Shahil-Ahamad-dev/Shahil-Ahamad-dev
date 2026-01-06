@@ -70,7 +70,17 @@
 ![NX](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white)
 
 </div>
+---
 
+<div>
+  
+  <!-- Top Languages (using fast alternative) -->
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shahil-Ahamad-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800" alt="Top Languages"/>
+
+  <!-- Contribution Streak (using fast alternative) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Shahil-Ahamad-dev&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Contribution Streak"/>
+  
+</div>
 
 ### 👀 Visitors
 <div align="center">
